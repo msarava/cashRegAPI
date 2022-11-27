@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\antoi\\Documents\\TP_Git_Ihab\\coursAspNetCore\\ApiCashRegistry\\ApiCashRegistry.csproj": {}
+    "C:\\Users\\antoi\\Documents\\Azure\\ApiCashRegistry\\ApiCashRegistry.csproj": {}
   },
   "projects": {
-    "C:\\Users\\antoi\\Documents\\TP_Git_Ihab\\coursAspNetCore\\ApiCashRegistry\\ApiCashRegistry.csproj": {
+    "C:\\Users\\antoi\\Documents\\Azure\\ApiCashRegistry\\ApiCashRegistry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\antoi\\Documents\\TP_Git_Ihab\\coursAspNetCore\\ApiCashRegistry\\ApiCashRegistry.csproj",
+        "projectUniqueName": "C:\\Users\\antoi\\Documents\\Azure\\ApiCashRegistry\\ApiCashRegistry.csproj",
         "projectName": "ApiCashRegistry",
-        "projectPath": "C:\\Users\\antoi\\Documents\\TP_Git_Ihab\\coursAspNetCore\\ApiCashRegistry\\ApiCashRegistry.csproj",
+        "projectPath": "C:\\Users\\antoi\\Documents\\Azure\\ApiCashRegistry\\ApiCashRegistry.csproj",
         "packagesPath": "C:\\Users\\antoi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\antoi\\Documents\\TP_Git_Ihab\\coursAspNetCore\\ApiCashRegistry\\obj\\",
+        "outputPath": "C:\\Users\\antoi\\Documents\\Azure\\ApiCashRegistry\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\antoi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

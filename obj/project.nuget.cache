@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MIwDIeU0LK2L3jddI9Y71eYnBrysRgfEJ7OcbuXuoqPXSAs6yYHfwgTfLKeNt4JXnOrhE8JkD4dPdecdR2YAow==",
+  "dgSpecHash": "MQ9TiVUtJI4fsw6PFIrinZNd3v7OJv7sDnNeuBmIESa7tOHskIdJ+CtSPsMdF5eOeMeHyKooIdsYbx3GV+b/AQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\antoi\\Documents\\TP_Git_Ihab\\coursAspNetCore\\ApiCashRegistry\\ApiCashRegistry.csproj",
+  "projectFilePath": "C:\\Users\\antoi\\Documents\\Azure\\ApiCashRegistry\\Api_CashRegistry.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\antoi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\antoi\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.10\\microsoft.aspnetcore.authentication.jwtbearer.6.0.10.nupkg.sha512",

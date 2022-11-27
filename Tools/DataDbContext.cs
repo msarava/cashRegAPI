@@ -15,7 +15,7 @@ namespace ApiCashRegistry.Tools
         public DbSet<CashRegistryUser> Users { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Data Source=(LocalDb)\cours-dotnet-sogeti;Integrated Security=True");
+            optionsBuilder.UseSqlServer(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\antoi\Documents\Azure\ApiCashRegistry\cashRegDB.mdf;Integrated Security=True;Connect Timeout=30");
         }
     }
 }

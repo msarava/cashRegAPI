@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace ApiCashRegistry.Migrations
+namespace Api_CashRegistry.Migrations
 {
     [DbContext(typeof(DataDbContext))]
     partial class DataDbContextModelSnapshot : ModelSnapshot
